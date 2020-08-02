@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Alberto Sardinha, and I'm from Brazil (🇧🇷). I studied web development at IFSP - Caraguatatuba. Studying since 2016 Bachelor in Computer Science at the Federal University of São Paulo.
 
-Currently working as a trainee in Website Operations at Quero Educação.
+Currently working as a intern in Website Operations at Quero Educação.
 
 🔭 Interested in Ruby on Rails, Python and Javascript.
 
