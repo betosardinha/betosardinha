@@ -1,5 +1,15 @@
 ### Hi there 👋
+My name is Alberto Sardinha, and I'm from Brazil (🇧🇷). I studied web development at IFSP - Caraguatatuba. Studying since 2016 Bachelor in Computer Science at the Federal University of São Paulo.
 
+Currently working as a trainee in Website Operations at Quero Educação.
+
+🔭 Interested in Ruby on Rails, Python and Javascript.
+
+🌱 Currently learning ReactJS.
+
+[![Gmail Badge](https://img.shields.io/badge/sardinhabeto55-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sardinhabeto55@gmail.com)](mailto:sardinhabeto55@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sardinhaalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sardinhaalberto/)](https://www.linkedin.com/in/sardinhaalberto/)
+[![Twitter Badge](https://img.shields.io/badge/-sardinhabeto-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sardinhabeto)](https://twitter.com/sardinhabeto)
 <!--
 **betosardinha/betosardinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
