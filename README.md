@@ -10,9 +10,11 @@ Currently working at [Quero Educação](https://sobre.quero.com/).
 
 - 🌱 I’m currently learning *Ruby on Rails* and *Vue.js*
 
-- 👨‍💻 All of my projects are available at [betosardinha.dev/projects](betosardinha.dev/projects)
+- 👨‍💻 All of my projects are available [here](https://betosardinha.dev/projects)
 
-- 📄 Know about my experiences [betosardinha.dev](betosardinha.dev)
+- 📄 Know about my [experiences](https://betosardinha.dev)
+
+- 📰 Some of my [posts and writings](https://dev.to/betosardinha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
