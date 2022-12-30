@@ -2,10 +2,9 @@
 
 A junior web developer from Brazil. Focused on learning new technologies, back-end code and (a little) game development.
 
-Currently working at Quero Educação.
-
 <img alt="Picture of me showing my code working!" src="https://user-images.githubusercontent.com/38788696/210024122-0ddcd399-7455-4670-9e8d-4270f8d81de2.png" height="300" align="right" />
 
+Currently working at [Quero Educação](https://sobre.quero.com/).
 
 - 🔭 I’m currently working on [articles-api](https://github.com/betosardinha/articles-api)
 
