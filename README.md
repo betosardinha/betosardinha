@@ -8,11 +8,9 @@ Currently working at [Quero Educação](https://sobre.quero.com/).
 
 - 🔭 I’m currently working on [articles-api](https://github.com/betosardinha/articles-api)
 
-- 🌱 I’m currently learning *Vue.js*
+- 🌱 I’m currently learning *Ruby on Rails* and *Vue.js*
 
 - 👨‍💻 All of my projects are available at [betosardinha.dev/projects](betosardinha.dev/projects)
-
-- 📫 How to reach me sardinhabeto55@gmail.com
 
 - 📄 Know about my experiences [betosardinha.dev](betosardinha.dev)
 
