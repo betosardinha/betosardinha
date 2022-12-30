@@ -4,7 +4,8 @@ A junior web developer from Brazil. Focused on learning new technologies, back-e
 
 Currently working at Quero Educação.
 
-<img alt="Picture of me showing my code working!" src="https://www.r2pg.com.br/wp-content/uploads/2016/09/17992-GrimFandango.jpg" height="300" align="right" />
+<img alt="Picture of me showing my code working!" src="https://user-images.githubusercontent.com/38788696/210024122-0ddcd399-7455-4670-9e8d-4270f8d81de2.png" height="300" align="right" />
+
 
 - 🔭 I’m currently working on [articles-api](https://github.com/betosardinha/articles-api)
 
