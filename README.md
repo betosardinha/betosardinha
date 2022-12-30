@@ -1,30 +1,34 @@
-# Hey there folks! 👋
+# Hi! I'm Beto Sardinha :fish:
 
-My name is Alberto Sardinha, but everyone just calls me Sardinha :fish: (Pilchard). 
+A junior web developer from Brazil. Focused on learning new technologies, back-end code and (a little) game development.
 
-I'm a Brazilian software developer (mostly web) focused on learning new technologies, back-end code and (a little) game development. I studied at IFSP - Caraguatatuba and I have a bachelor's degree in Computer Science from the Federal University of São Paulo.
-My goal is to create solutions to help people with (maybe random) tasks.
+Currently working at Quero Educação.
 
-Currently working as a software developer at Quero Educação.
+<img alt="Picture of me showing my code working!" src="https://www.r2pg.com.br/wp-content/uploads/2016/09/17992-GrimFandango.jpg" height="300" align="right" />
 
-🔭 Interested in Ruby on Rails, Python and Javascript.
+- 🔭 I’m currently working on [articles-api](https://github.com/betosardinha/articles-api)
 
-🌱 Currently learning VueJS.
+- 🌱 I’m currently learning *Vue.js*
 
-Below you will have a picture of me showing my code working, and where to contact me:
+- 👨‍💻 All of my projects are available at [betosardinha.dev/projects](betosardinha.dev/projects)
 
-<p align="center">
-  <img alt="Picture of me showing my code working!" src="https://www.r2pg.com.br/wp-content/uploads/2016/09/17992-GrimFandango.jpg" height="300" />
+- 📫 How to reach me sardinhabeto55@gmail.com
+
+- 📄 Know about my experiences [betosardinha.dev](betosardinha.dev)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/betosardinha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="betosardinha" height="30" width="30" /></a> &nbsp;
+  <a href="https://dev.to/betosardinha" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="betosardinha" height="30" width="30" /></a> &nbsp;
+  <a href="https://instagram.com/betosardinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="betosardinha" height="30" width="30" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:sardinhabeto55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>                                                                                                   
-  <a href="https://www.linkedin.com/in/sardinhaalberto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/betosardinha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
