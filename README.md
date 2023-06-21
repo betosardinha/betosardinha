@@ -6,9 +6,9 @@ A junior web developer from Brazil. Focused on learning new technologies, back-e
 
 Currently working at [Quero Educação](https://sobre.quero.com/).
 
-- 🔭 I’m currently working on [articles-api](https://github.com/betosardinha/articles-api)
+- 🔭 I’m currently working on [organo](https://github.com/betosardinha/organo)
 
-- 🌱 I’m currently learning *Ruby on Rails* and *Vue.js*
+- 🌱 I’m currently learning *React.js*
 
 - 👨‍💻 All of my projects are available [here](https://betosardinha.dev/projects)
 
